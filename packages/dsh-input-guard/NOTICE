@@ -1,0 +1,14 @@
+@michengai/dsh-input-guard
+Copyright 2026 MichengAI
+
+本产品包含或参照了以下第三方项目的公开规则约定：
+
+1. gitleaks — https://github.com/gitleaks/gitleaks
+   许可证：MIT
+   参照内容：凭证类正则的模式约定（前缀 + 长度 + 结构）。未复制源代码。
+
+2. detect-secrets — https://github.com/Yelp/detect-secrets
+   许可证：Apache License 2.0
+   参照内容：赋值类密钥与个人信息插件的识别思路。未复制源代码。
+
+本插件自身的实现、测试与文档均为原创，以 Apache License 2.0 发布，详见 LICENSE。

@@ -1,0 +1,4 @@
+# dsh-input-guard：纯 UI 插件，只往输入框挂一个隐形扩展，不替换宿主任何组件。
+- insert:
+    - id: input-guard
+      name: '@michengai/dsh-input-guard'
